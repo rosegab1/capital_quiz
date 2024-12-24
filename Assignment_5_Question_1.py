@@ -1,7 +1,3 @@
-
-'''The purpose of this program is to quiz the user on state capitals and
-keep track of the number of correct and incorrect answers'''
-
 import random as rand
 
 state_capitals_dict = {'Alabama':'Montgomery','Alaska':'Juneau', 'Arizona':'Phoenix','Arkansas':'Little Rock','California':'Sacramento',
